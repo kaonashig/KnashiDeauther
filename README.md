@@ -33,8 +33,8 @@ Tested on
         <th> Version </th>
     </tr>
     <tr>
-        <td>Kali Linux 2023.2</td>
-        <td> Linux Mint </td>
+        <td>Kali Linux </td>
+        <td> 2023.2 </td>
     </tr>
 </table>
 
