@@ -33,8 +33,8 @@ Tested on
         <th> Version </th>
     </tr>
     <tr>
-        <td>Linux Mint</td>
-        <td> 19.2 Tina </td>
+        <td>Kali Linux 2023.2</td>
+        <td> Linux Mint </td>
     </tr>
 </table>
 
@@ -45,17 +45,12 @@ Features
 - Takedown all channels
 - Spam many fake AP
 
-
-Contact
-=
-- Twitter: @4wsec_
-
-
-License
-=
-GNU General Public License v3.0
-
+)_) 
 
 Copyright
 =
-Kawaii Deauther is made with ❤️ by Arya Narotama - Anon Cyber Team - 2020
+Kawaii Deauther is made with ❤️ by Kaonashi - Smert - 2019
+
+////
+
+Happy Hacking!
