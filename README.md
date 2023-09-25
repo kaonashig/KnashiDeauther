@@ -49,7 +49,7 @@ Features
 
 Copyright
 =
-Kawaii Deauther is made with ❤️ by Kaonashi - Smert - 2019
+Knashi Deauther is made with ❤️ by Kaonashi - Smert - 2019
 
 ////
 
