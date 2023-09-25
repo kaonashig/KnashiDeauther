@@ -1,7 +1,8 @@
-# KnashiDeauther
+# KawaiiDeauther
+[![License](https://img.shields.io/badge/License-GPL-red.svg)](https://github.com/aryanrtm/KawaiiDeauther/blob/master/LICENSE)  [![Version](https://img.shields.io/badge/Release-1.2-blue.svg?maxAge=259200)]()  [![Build](https://img.shields.io/badge/Supported_OS-Linux-green.svg)]()  [![asciinema](https://img.shields.io/badge/asciinema-Demo-red.svg)](https://asciinema.org/a/294970)
 <br/>
 <br/>
-*Knashi Deauther* is a wi-fi pentest toolkit who can perform jamming attacks on WiFi clients/routers and spam fake Access Points.
+***Knashi Deauther*** is a wi-fi pentest toolkit who can perform jamming attacks on WiFi clients/routers and spam fake Access Points.
 
 ![Cat_Jamming_Wi-fi](https://media.discordapp.net/attachments/893715225952534578/1155719734566858794/Screenshot_20230924-2338542.png)
 
