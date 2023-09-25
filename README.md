@@ -1,4 +1,4 @@
-# KawaiiDeauther
+# KnashiDeauther
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-green.svg)]()
 <br/>
 <br/>
