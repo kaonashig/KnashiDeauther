@@ -19,14 +19,9 @@ Installation
 =
 Dependencies will be automatically installed.
 
-    $ git clone https://github.com/aryanrtm/KawaiiDeauther
-    $ cd KawaiiDeauther && sudo ./install.sh
-    $ sudo KawaiiDeauther.sh
-
-
-Demo
-=
-[![asciicast](https://asciinema.org/a/294970.png)](https://asciinema.org/a/294970?autoplay=1&loop=1)
+    $ git clone https://github.com/kaonashig/KnashiDeauther
+    $ cd KnashiDeauther && sudo ./install.sh
+    $ sudo bash KnashiDeauther.sh
 
 
 Tested on
