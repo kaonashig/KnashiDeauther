@@ -7,8 +7,6 @@
 <br/>
 ***Knashi Deauther*** is a wi-fi pentest toolkit who can perform jamming attacks on WiFi clients/routers and spam fake Access Points.
 
-![Cat_Jamming_Wi-fi](https://media.discordapp.net/attachments/893715225952534578/1155719734566858794/Screenshot_20230924-2338542.png)
-
 
 Dependencies
 =
