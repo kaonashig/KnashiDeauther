@@ -1,4 +1,7 @@
 # KnashiDeauther
+
+![alt text](https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4jDknYN0aCPtudyMf63Csj0WcqbLRuyEIHKcG7ADvf27)
+
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-green.svg)]()
 <br/>
 <br/>
